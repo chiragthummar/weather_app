@@ -4,7 +4,7 @@ Demonstrate Weather App With Free Weather API.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my project for showcase of my expertise in flutter. anyone can use this project for learning purpose and also copy code from this project.
 
 A few resources to get you started if this is your first Flutter project:
 
